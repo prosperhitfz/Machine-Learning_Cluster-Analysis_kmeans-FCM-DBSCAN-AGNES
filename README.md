@@ -1,6 +1,6 @@
-# Machine-Learning_Cluster-Analysis_kmeans-FCM-DBSCAN-AGNES_sonar
+# Machine-Learning_Cluster-Analysis_kmeans-FCM-DBSCAN-AGNES_iris
 
-## 机器学习之聚类分析在sonar上的实现
+## 机器学习之聚类分析在iris上的实现
 
 ### 包括原型聚类（kmeans）层次聚类（AGNES）和密度聚类（DBSCAN）划分聚类（FCM）
 
